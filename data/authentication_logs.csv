@@ -1,0 +1,31 @@
+timestamp,customer_id,event_type,source_ip,device_id,location,auth_method,is_new_device,is_new_location
+2026-08-13T08:02:11Z,CUST-0231,login_success,102.176.65.14,DEV-1A2B3C,"Accra, Ghana",password+otp,false,false
+2026-08-15T18:45:37Z,CUST-0231,login_success,102.176.65.14,DEV-1A2B3C,"Accra, Ghana",password+otp,false,false
+2026-08-17T07:30:02Z,CUST-0231,login_success,102.176.65.14,DEV-1A2B3C,"Accra, Ghana",password+otp,false,false
+2026-08-19T20:12:55Z,CUST-0231,login_success,102.176.65.14,DEV-1A2B3C,"Accra, Ghana",password+otp,false,false
+
+2026-08-14T09:15:44Z,CUST-0587,login_success,102.180.22.9,DEV-4D5E6F,"Kumasi, Ghana",password+otp,false,false
+2026-08-16T13:22:10Z,CUST-0587,login_success,102.180.22.9,DEV-4D5E6F,"Kumasi, Ghana",password+otp,false,false
+2026-08-18T19:05:33Z,CUST-0587,login_success,102.180.22.9,DEV-4D5E6F,"Kumasi, Ghana",password+otp,false,false
+2026-08-19T08:40:19Z,CUST-0587,login_success,102.180.22.9,DEV-4D5E6F,"Kumasi, Ghana",password+otp,false,false
+
+2026-08-13T21:11:02Z,CUST-0942,login_success,154.160.3.201,DEV-7G8H9I,"Accra, Ghana",password+otp,false,false
+2026-08-16T07:52:48Z,CUST-0942,login_success,154.160.3.201,DEV-7G8H9I,"Accra, Ghana",password+otp,false,false
+2026-08-18T12:30:15Z,CUST-0942,login_success,154.160.3.201,DEV-7G8H9I,"Accra, Ghana",password+otp,false,false
+2026-08-19T22:05:59Z,CUST-0942,login_success,154.160.3.201,DEV-7G8H9I,"Accra, Ghana",password+otp,false,false
+
+2026-08-14T10:12:03Z,CUST-1103,login_failed,41.66.204.5,DEV-AA11BB,"Accra, Ghana",password,false,false
+2026-08-14T10:12:41Z,CUST-1103,login_success,41.66.204.5,DEV-AA11BB,"Accra, Ghana",password+otp,false,false
+2026-08-17T16:48:22Z,CUST-1103,login_success,41.66.204.5,DEV-AA11BB,"Accra, Ghana",password+otp,false,false
+
+2026-08-15T09:00:07Z,CUST-0450,login_success,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password+otp,false,false
+2026-08-18T14:22:41Z,CUST-0450,login_failed,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password,false,false
+2026-08-18T14:23:02Z,CUST-0450,login_success,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password+otp,false,false
+2026-08-19T11:15:36Z,CUST-0450,login_success,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password+otp,false,false
+
+2026-08-20T08:51:02Z,CUST-0231,login_failed,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
+2026-08-20T08:52:14Z,CUST-0231,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
+
+2026-08-20T09:47:20Z,CUST-0450,login_success,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password+otp,false,false
+2026-08-20T11:07:39Z,CUST-0587,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
+2026-08-20T13:41:56Z,CUST-0942,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
