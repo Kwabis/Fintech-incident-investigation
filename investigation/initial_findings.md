@@ -33,7 +33,7 @@ directly to the fraudulent transfers.
 `source_ip 45.155.205.12`, `device_id DEV-ATK0001`, and location "Amsterdam, Netherlands"
 appear across all three compromised accounts' suspicious logins and transactions. The three
 victims' legitimate logins originate from three different Ghanaian locations (Accra,
-Kumasi, Accra) on three distinct device IDs — a single IP/device pair touching three
+Kumasi, Accra) on three distinct device IDs a single IP/device pair touching three
 unrelated customer accounts inside a 5-hour window is the core anomaly.
 
 ## Preliminary IOCs

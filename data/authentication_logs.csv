@@ -28,4 +28,4 @@ timestamp,customer_id,event_type,source_ip,device_id,location,auth_method,is_new
 
 2026-08-20T09:47:20Z,CUST-0450,login_success,102.185.9.77,DEV-CC22DD,"Tema, Ghana",password+otp,false,false
 2026-08-20T11:07:39Z,CUST-0587,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
-2026-08-20T13:41:56Z,CUST-0942,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,true
+2026-08-20T13:41:56Z,CUST-0942,login_success,45.155.205.12,DEV-ATK0001,"Amsterdam, Netherlands",password,true,trueZ
