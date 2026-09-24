@@ -46,4 +46,4 @@ The AI tool correctly surfaced the primary anomaly pattern from raw authenticati
 and correctly avoided false positives on benign retry events. It did not perform
 cross-file correlation, threat-framework mapping, or attribution reasoning, all of which
 required human analysis on top of its output. This session is evidenced by the attached
-screenshot (see `screenshots/ai-evidence.png`).
+screenshot (see `evidence/ai-evidence.png`).
